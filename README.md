@@ -4,4 +4,4 @@
 #4. LICENSE: FOR MORE INFORMATION, SEE THE GNU GENERAL PUBLIC LICENSE.
 #5. Source Code_Aesthetic Index: This program is used for calculating the aesthetic index of sample images.
 #6. Source Code_Aesthetic Index_Annotated: Explanation paragraphs have been added to the source code to make it easier for readers to understand and apply.
-
+#Python Version: Based on our testing, we have determined that the project runs stable on Python 3.7.7.
